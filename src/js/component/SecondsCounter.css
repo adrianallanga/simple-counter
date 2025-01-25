@@ -1,0 +1,23 @@
+.seconds-counter{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    font-size: 2rem;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.icon{
+    margin-right: 10px;
+}
+.digit{
+    background-color: rgb(33, 32, 32);
+    border: 2px solid rgb(44, 39, 39);
+    margin: 0 5px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 40px;
+    text-align: center;
+    font-size: 2rem;
+}
